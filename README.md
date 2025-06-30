@@ -42,7 +42,7 @@ git clone https://github.com/NehaKankala/TicTacToe-Game.git
 cd TicTacToe-Game
 Then, open index.html
 
-# 🧠 Technologies Used
+## 🧠 Technologies Used
 HTML5
 
 CSS3
