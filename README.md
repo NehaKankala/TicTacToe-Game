@@ -33,6 +33,14 @@ A modern, interactive, and fun version of the classic Tic-Tac-Toe game built usi
 - 🎉 **Game Over Modal:**
   - Popup with win/draw message and Play Again button
 
+## 🧠 Technologies Used
+HTML5
+
+CSS3
+
+JavaScript (DOM manipulation + Minimax algorithm)
+
+
 ## 🚀 Getting Started
 
 Just clone or download the repository and open `index.html` in any modern browser.
@@ -41,13 +49,6 @@ Just clone or download the repository and open `index.html` in any modern browse
 git clone https://github.com/NehaKankala/TicTacToe-Game.git
 cd TicTacToe-Game
 Then, open index.html
-
-## 🧠 Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (DOM manipulation + Minimax algorithm)
 
 🙌 Author
 Made with ❤️ by Neha Kankala
