@@ -50,8 +50,11 @@ git clone https://github.com/NehaKankala/TicTacToe-Game.git
 cd TicTacToe-Game
 Then, open index.html
 
-🙌 Author
+-----------
+## 🙌 Author
 Made with ❤️ by Neha Kankala
 
-📄 License
+------------
+
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
