@@ -40,6 +40,11 @@ CSS3
 
 JavaScript (DOM manipulation + Minimax algorithm)
 
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙌 Author
+Made with ❤️ by Neha Kankala
 
 ## 🚀 Getting Started
 
@@ -50,11 +55,3 @@ git clone https://github.com/NehaKankala/TicTacToe-Game.git
 cd TicTacToe-Game
 Then, open index.html
 
------------
-## 🙌 Author
-Made with ❤️ by Neha Kankala
-
-------------
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
